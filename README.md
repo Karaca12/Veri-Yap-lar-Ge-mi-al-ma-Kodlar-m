@@ -19,7 +19,7 @@ Anlayamadınız bir yer bir durumla karşılaşırsanız hemen terketmeyin. Beni
 
 
 # Not2:
- Bazı algoritmalar olmaya bilir öncelikle internetten bu konuyla ilgili araştırma yapmanızı tavisiye ederim.
+ Bazı algoritmalar olmayabilir öncelikle internetten bu konuyla ilgili araştırma yapmanızı tavisiye ederim.
 
 
 
