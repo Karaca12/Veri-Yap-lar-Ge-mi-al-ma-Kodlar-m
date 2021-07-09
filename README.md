@@ -3,7 +3,7 @@
 
 ## Acıklama:
 
-Eğer algoritmik düşünme konusunda  genel terimleri öğrendiniz ve ufak çalışmalar yaptınız fakat hala algoritmik düşünme konusunda sorunlar yaşıyorum diyorsanız. Buradan devam etmenizi öneririm , Yani veri yapılarından.Yazılımcının işi bir pasta işine benzer. Verileri alır eğer büker katlar birleştirir ve bunun gibi bir çok işlemden geçirir, sonucunda güzel bir pasta ortaya çıkarır. Günümüzde veri yapıları gözlemlerime göre yazılım dünyasında yeni olan bireylere algoritmik düşüncülerini güçlendirmek için öğretildini düşünüyorum. 
+Eğer algoritmik düşünme konusunda  genel terimleri öğrendiniz ve ufak çalışmalar yaptınız fakat hala algoritmik düşünme konusunda sorunlar yaşıyorum diyorsanız. Buradan devam etmenizi öneririm,yani veri yapılarından.Yazılımcının işi bir pasta işine benzer. Verileri alır eğer büker katlar birleştirir ve bunun gibi bir çok işlemden geçirir, sonucunda güzel bir pasta ortaya çıkarır. Günümüzde veri yapıları gözlemlerime göre yazılım dünyasında yeni olan bireylere algoritmik düşüncülerini güçlendirmek için öğretildini düşünüyorum. 
 
 
 ### Veri Yapıları Üzerinde Çalışmanın Faydaları:
